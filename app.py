@@ -3,7 +3,7 @@ import student
 import mariadb
 import time
 import datetime
-conn = mariadb.connect(user="riverbend", password="riverbend", host="161.35.112.169", port=3306, database="riverbend")
+conn = mariadb.connect(user="riverbend", password="********", host="161.35.112.169", port=3306, database="riverbend")
 cursor = conn.cursor()
 # Declare a Flask app
 app = Flask(__name__)
