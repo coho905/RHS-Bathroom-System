@@ -17,4 +17,4 @@
 
 Feel free to make any pull requests or build off of it for your own school system. 
 
-MIT License, Copyright - Colin Wolfe 2023
+MIT License, Copyright(c) - Colin Wolfe 2023
